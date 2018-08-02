@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "The Mean(est) Voting System"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/meanest-voting-system
+excerpt: 'We study positional voting systems and consider aggregations thereof.'
+date: 2016-09-01
+venue: 'Math Horizons'
+paperurl: 'https://www.jstor.org/stable/10.4169/mathhorizons.24.1.10'
+citation: 'Sam Gutekunst, David Lingenbrink, & Michael Orrison. (2016). The Mean(est) Voting System. Math Horizons, 24(1), 10-13. doi:10.4169/mathhorizons.24.1.10.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We study positional voting systems and consider aggregations thereof
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.jstor.org/stable/10.4169/mathhorizons.24.1.10)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Sam Gutekunst, David Lingenbrink, & Michael Orrison. (2016). The Mean(est) Voting System. Math Horizons, 24(1), 10-13. doi:10.4169/mathhorizons.24.1.10
