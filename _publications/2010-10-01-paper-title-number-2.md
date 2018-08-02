@@ -1,10 +1,10 @@
 ---
 title: "Optimal Signaling Mechanisms in Unobservable Queues"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/optimal-signaling-in-queues
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2019-01-01
+venue: 'Operations Research'
 paperurl: 'https://ssrn.com/abstract=2964093'
 citation: 'Lingenbrink, David and Iyer, Krishnamurthy, Optimal Signaling Mechanisms in Unobservable Queues (November 4, 2017). Available at SSRN: https://ssrn.com/abstract=2964093 or http://dx.doi.org/10.2139/ssrn.2964093'
 ---
