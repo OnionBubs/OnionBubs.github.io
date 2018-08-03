@@ -7,13 +7,13 @@ date: 2014-01-01-2017-01-01
 location: "Ithaca, New York"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have been a teaching assistant in the following courses.  Many required
+teaching recitation sections, as well as having office hours and grading
+assignments.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Introduction to Game Theory, Spring 2017
+* Introduction to Game Theory, Fall 2016
+* Spreadsheet-Based Modeling and Data Analysis, Spring 2016
+* Introduction to Game Theory, Fall 2015
+* Revenue Management, Spring 2015
+* Introduction to Game Theory, Fall 2014
