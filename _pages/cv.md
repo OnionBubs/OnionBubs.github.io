@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Harvey Mudd College, 2014
+* M.S. in Operations Research, Cornell University, 2017
+* Ph.D in Operations Research, Cornell University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Scientist Internship (Amazon)
+  *  Created quantile regression models to compare with black-box neural network
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Machine Learning Internship (Bloomberg L.P.)
+  *  Created language models using word2vec’s distributed word representations
+  *  Modified word2vec to use a one-sided context window
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2014: Software Development Internship (Amazon)
+  *  Fully integrated a new data source into Amazon’s outbound labor model
+  *  Made UI and back-end tweaks to a internal labor model website
+
+* Summer 2013: Project Management Internship (Microsoft)
+  *  Developed algorithms for stopping outbound spam
+  *  Created a spec for a new Outlook.com feature
 
 Publications
 ======
@@ -53,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
