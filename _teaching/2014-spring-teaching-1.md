@@ -1,6 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/ta
 venue: "Cornell University, Operations Research and Information Engineering"
 date: 2014-01-01-2017-01-01
