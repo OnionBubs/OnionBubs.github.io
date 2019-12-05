@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Harvey Mudd College, 2014
 * M.S. in Operations Research, Cornell University, 2017
-* Ph.D in Operations Research, Cornell University, 2019 (expected)
+* Ph.D in Operations Research, Cornell University, 2019 
 
 Work experience
 ======

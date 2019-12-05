@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the school of Operations Research and Information Engineering (ORIE) at Cornell University.
+Starting in January 2020, I will be a Software Engineer at Bloomberg, LLC.  I recently completed my PhD in the school of Operations Research and Information Engineering (ORIE) at Cornell University.
 
 My research interests include Bayesian persuasion, voting theory and queues.
