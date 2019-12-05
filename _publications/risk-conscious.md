@@ -1,5 +1,5 @@
 ---
-title: "The Mean(est) Voting System"
+title: "Persuading Risk-Conscious Agents: A Geometric Approach"
 collection: publications
 permalink: /publication/meanest-voting-system
 excerpt: 'We consider a persuasion problem between a sender and a receiver where the receiver may not be an expected-utility maximizer.'
