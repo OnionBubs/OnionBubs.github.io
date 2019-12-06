@@ -11,4 +11,4 @@ Starting in January 2020, I will be a Software Engineer at Bloomberg, LLC.  I re
 
 My research interests include Bayesian persuasion, voting theory and queues.
 
-For my much less academic life, please check out my comedy website [here](http://www.davelingenbrink.com).
+For my much less academic life, please check out my comedy website [here](https://www.davelingenbrink.com).
