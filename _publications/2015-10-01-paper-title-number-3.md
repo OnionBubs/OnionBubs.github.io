@@ -1,5 +1,5 @@
 ---
-title: "Persuading Risk-Conscious Agents: A Geometric Approach"
+title: "The Mean(est) Voting System"
 collection: publications
 permalink: /publication/risk-conscious-agents
 excerpt: 'We study positional voting systems and consider aggregations thereof.'
