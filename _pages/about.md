@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Starting in January 2020, I will be a Software Engineer at Bloomberg, LLC.  I recently completed my PhD in the school of Operations Research and Information Engineering (ORIE) at Cornell University.
+Starting in January 2020, I will be a Software Engineer at Bloomberg, LLC.  
 
-My research interests include Bayesian persuasion, voting theory and queues.
+I recently completed my PhD in the school of Operations Research and Information Engineering (ORIE) at Cornell University.  My advisor was [Krishnamurthy Iyer](https://people.orie.cornell.edu/kriyer/), and my thesis was titled "Information Design in Service Systems and Online Markets."   My research interests include Bayesian persuasion, voting theory and queues.
 
 For my much less academic life, please check out my comedy website [here](https://www.davelingenbrink.com).

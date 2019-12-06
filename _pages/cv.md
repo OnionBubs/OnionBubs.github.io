@@ -13,7 +13,8 @@ Education
 ======
 * B.S. in Mathematics, Harvey Mudd College, 2014
 * M.S. in Operations Research, Cornell University, 2017
-* Ph.D in Operations Research, Cornell University, 2019 
+* Ph.D in Operations Research, Cornell University, 2019
+  * Thesis: ["Information Design in Service Systems and Online Markets."](https://ecommons.cornell.edu/handle/1813/67405)  Advisor: [Krishnamurthy Iyer](https://people.orie.cornell.edu/kriyer/) 
 
 Work experience
 ======
