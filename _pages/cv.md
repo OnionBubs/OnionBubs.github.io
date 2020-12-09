@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Full Resume
+======
+<a href="dlingenbrink.github.io/files/lingenbrink-resume.pdf" target="_blank">Click here to see my current resume.</a>
+
 Education
 ======
 * B.S. in Mathematics, Harvey Mudd College, 2014
@@ -18,18 +22,23 @@ Education
 
 Work experience
 ======
-* Summer 2017: Research Scientist Internship (Amazon)
+* 2020: Software Engineer (Bloomberg, LLC)
+  * Contributing to Apache Kafka-based derivatives volatility modeling system 
+	* Migrating systems from Sun to Linux
+	* Leading reading group through machine learning basics course
+
+* 2017: Research Scientist Internship (Amazon)
   *  Created quantile regression models to compare with black-box neural network
 
-* Summer 2016: Machine Learning Internship (Bloomberg L.P.)
+* 2016: Machine Learning Internship (Bloomberg L.P.)
   *  Created language models using word2vec’s distributed word representations
   *  Modified word2vec to use a one-sided context window
 
-* Summer 2014: Software Development Internship (Amazon)
+* 2014: Software Development Internship (Amazon)
   *  Fully integrated a new data source into Amazon’s outbound labor model
   *  Made UI and back-end tweaks to a internal labor model website
 
-* Summer 2013: Project Management Internship (Microsoft)
+* 2013: Project Management Internship (Microsoft)
   *  Developed algorithms for stopping outbound spam
   *  Created a spec for a new Outlook.com feature
 
