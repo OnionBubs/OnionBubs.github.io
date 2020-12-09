@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "David Lingenbrink"
 title_separator          : "-"
 name                     : &name "David Lingenbrink"
-description              : &description "Software Engineer at Bloomberg, LLC"
+description              : &description "Software Engineer at Bloomberg, LP"
 url                      : https://dlingenbrink.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dlingenbrink.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "David Lingenbrink"
   avatar           : "bio-photo.jpg"
-  bio              : "Software Engineer at Bloomberg, LLC"
+  bio              : "Software Engineer at Bloomberg, LP"
   location         : "New York, NY"
   employer         :
   googlescholar    :
